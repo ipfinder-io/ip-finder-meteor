@@ -29,7 +29,7 @@ To enable all the data fields and additional request volumes see [https://ipfind
 ## Installation
 install using meteor:
 ```shell
-meteor add ipfinder-io:ip-finder-meteor
+meteor add ipfinderio:ip-finder-meteor
 ```
 
 
