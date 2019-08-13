@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'ipfinder-io:ip-finder-meteor',
+  name: 'ipfinderio:ip-finder-meteor',
   version: '1.0.0',
   // Brief, one-line summary of the package.
   summary: 'Meteor Node IPFinder library',
